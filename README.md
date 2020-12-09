@@ -1,4 +1,4 @@
-### Hi there 👋
+### หวัดดีคับ ไอซ์คับ 👋😱
 
 <!--
 **Ic3Sandy/Ic3Sandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
