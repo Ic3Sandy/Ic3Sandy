@@ -1,4 +1,7 @@
-### หวัดดีคับ ไอซ์คับ 👋😱
+### หวัดดีคับ ไอซ์คับ 😱
+
+- 🌱 กำลังศึกษา django🐍, django-rest-framework ครับ
+- 🔭 ทำงานกับ django🐍, django-rest-framework ครับ
 
 <!--
 **Ic3Sandy/Ic3Sandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
