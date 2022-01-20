@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **If you hate yourself, remember you're not alone. A lot of other people hate you too.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
