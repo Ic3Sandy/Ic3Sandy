@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **chitrathep.ic3@outlook.com**
 
-- ⚡ Fun fact **If you hate yourself, remember you're not alone. A lot of other people hate you too.**
-
 <p align="left">
 </p>
 
