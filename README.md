@@ -15,9 +15,8 @@ Software engineer with 6+ years of experience building backend systems, web and 
 
 ### 🛠️ Tech Stack
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
-<tr>
-<td valign="top" width="47%">
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+<div style="flex: 1; max-width: 47%;">
 
 **🔤 Languages**
 
@@ -37,9 +36,8 @@ Software engineer with 6+ years of experience building backend systems, web and 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
 </p>
 
-</td>
-<td width="6%"></td>
-<td valign="top" width="47%">
+</div>
+<div style="flex: 1; max-width: 47%;">
 
 **⚙️ Backend**
 
@@ -59,9 +57,8 @@ Software engineer with 6+ years of experience building backend systems, web and 
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 ---
 
