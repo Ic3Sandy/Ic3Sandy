@@ -15,7 +15,7 @@ Software engineer with 6+ years of experience building backend systems, web and 
 
 ### 🛠️ Tech Stack
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
 <td valign="top" width="47%">
 
